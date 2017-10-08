@@ -1,3 +1,3 @@
-PHP 7.1 Image based on Alpine
+# PHP 7.1 Image based on Alpine
 
-There is another version of this available with Dev-Tools such as Composer, XDebug etc. installed.
+https://hub.docker.com/r/spawnia/php7.2-fpm/
